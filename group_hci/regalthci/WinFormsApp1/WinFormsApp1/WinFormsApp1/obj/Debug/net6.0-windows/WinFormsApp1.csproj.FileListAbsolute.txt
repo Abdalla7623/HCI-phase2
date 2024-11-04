@@ -1,0 +1,123 @@
+D:\hci\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\hci\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\hci\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\hci\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\hci\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\hci\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\cs\smester7\HCI\Project\Edit\WinFormsApp1 (3)\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\hci\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form4.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form5.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form6.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form7.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form8.resources
+D:\semester1\HCI\project\editd\test_bol7i\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form9.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form4.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form5.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form6.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form7.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form8.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form9.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\COMPUMARTS\Desktop\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form3.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form4.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form5.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form6.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\COMPUMARTS\Desktop\group_hci\regalthci\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
